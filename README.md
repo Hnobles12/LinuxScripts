@@ -6,13 +6,13 @@
 <br>
 <h2>Using git clone</h2>
   <p>Clone the repository into any directory on the system, then run the install script as root.</p>
-  <code>git clone "repolink"</code>
-  <code>cd wpa-tools</code>
+  <code>git clone "repolink"</code><br>
+  <code>cd wpa-tools</code><br>
   <code>sudo ./install</code>
 <br>
 <h2>Using Tar</h2>
   <p>To install, clone or download the repository into any directory. Then uncompress the file and run the install script as root.</p>
-  <code>tar xvzf "tarfile"</code>
-  <code>cd wpa-tools</code>
-  <code>sudo ./install</code>
+  <code>tar xvzf "tarfile"</code><br>
+  <code>cd wpa-tools</code><br>
+  <code>sudo ./install</code><br>
  
