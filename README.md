@@ -10,7 +10,7 @@
 
   <code>git clone "repolink"</code><br>
   <code>cd wpa-tools</code><br>
-  <code>sudo ./install</code>
+  <code>sudo ./install.sh</code>
   </div>
 
 <h2>Using Tar</h2>
@@ -19,5 +19,5 @@
 
   <code>tar xvzf "tarfile"</code><br>
   <code>cd wpa-tools</code><br>
-  <code>sudo ./install</code><br>
+  <code>sudo ./install.sh</code><br>
   </div>
